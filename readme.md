@@ -1,8 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="developer.gif" height="100px"/></a>
+<a href="#"><img width="70%" height="auto" src="developer.gif" height="900px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nethma</h1>
 <h3 align="center">I'm a passionate Web Developer from Srilanka.</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -43,26 +42,24 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Dissa123/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dissa123&theme=dark)](https://github.com/De/github-readme-streak-stats)
-"/>
+     <a href="https://github.com/Dissa123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dissa123&theme=default"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
-  <br/>
+ <br/>
     <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dissa123&show_icons=true&count_private=true&theme=Default"/></a>
-  <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&layout=Demo)](https://github.com/Dissa123/github-readme-stats)
-" /></a>
+  <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&langs_count=8&count_private=true&layout=compact" /></a>
+  <br/>
   <br/>
   
 
 <br/>
 <br/>
 
-<a href="https://github.com/Dissa123/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dissa123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Dissa123/github-readme-activity-graph)
-" /></a>
+<a href="https://github.com/Dissa123/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dissa123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
