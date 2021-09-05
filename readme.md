@@ -67,7 +67,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/nethma-dissanayake-1696a5194/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nethma-dissanayake-1696a5194/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nethmadissanayake/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC9Ty2E9USaPGWtGzNHCO9Ag"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
