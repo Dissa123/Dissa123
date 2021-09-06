@@ -1,10 +1,10 @@
-<a href="#"><img width="750%" height="auto" src="developer.gif" height="600px"/></a>
+<a href="#"><img align="right" width="60%" height="40%" src="developer.gif" /></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nethma</h1>
 <h3 align="center">I'm a passionate Web Developer from Srilanka.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on My BSc. (Hons) Computer Science and Software Engineering degree
+- 🔭 I’m currently working on My BSc. (Hons) Computer Science and Software Engineering degree.
 
 - 🌱 I’m currently learning **ReactJs/Laravel**
 
