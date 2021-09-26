@@ -50,9 +50,10 @@
 
  <br/>
     <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dissa123&show_icons=true&count_private=true&theme=Default"/></a>
-  <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&layout=compact"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&langs_count=8" />
   <br/>
   <br/>
+  
 
 
 <br/>
