@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on My BSc. (Hons) Computer Science and Software Engineering degree.
 
-- 🌱 I’m currently learning **ReactJs/Laravel**
+- 🌱 I’m currently learning **ReactJs/node.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
