@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="developer.gif" alt="coding" />
+<img align="right" width="340" src="dev-dashboard.svg" alt="coding" />
 
 Frontend Engineer with **5+ years** building data-driven web applications, admin dashboards and analytics interfaces for enterprise and eCommerce clients across the **UAE, MENA and Sri Lanka**. I turn business requirements into clear, high-performance interfaces and data-driven results.
 
