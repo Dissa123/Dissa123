@@ -1,83 +1,144 @@
-<a href="#"><img align="right" width="60%" height="40%" src="developer.gif" /></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nethma</h1>
-<h3 align="center">I'm a passionate Web Developer from Srilanka.</h3>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on My BSc. (Hons) Computer Science and Software Engineering degree.
-
-- 🌱 I’m currently learning **ReactJs/node.js**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-
-- 📫 How to reach me **[Linkedin](www.linkedin.com/in/nethma-dissanayake-1696a5194)**
-
-- ⚡ Fun fact **Fun fact:Men take up the bulk of developer jobs.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://icons8.com/icon/40669/c++"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"><img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> </a> 
-    <a href="https://icons8.com/icon/39913/oracle-logo"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/lRjcvhvtR81o/laravel"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<!-- ====== HEADER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nethma%20Dissanayake&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20and%20BI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Nethma Dissanayake" />
 </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <p align="center">
-     <a href="https://github.com/Dissa123/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dissa123&theme=default"/>
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=F2B544&center=true&vCenter=true&width=640&lines=Frontend+%26+BI+Engineer+%F0%9F%93%8A;React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Dashboards+%26+Data+Visualisation;5%2B+years+building+data-driven+web+apps;AI-assisted+engineering+with+Claude+Code+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
 
-## 📊 My Github Stats
-
- <br/>
-    <a href="https://github.com/Dissa123/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dissa123&show_icons=true&count_private=true&theme=Default"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&langs_count=8" />
-  <br/>
-  <br/>
-  
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Dissa123/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dissa123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/nethma-dissanayake-1696a5194/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/nethmadissanayake/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC9Ty2E9USaPGWtGzNHCO9Ag"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://www.reddit.com/user/MixExcellent8660"><img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/></a>
-<a href="https://www.facebook.com/nethmachamoth.disanayaka/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
+<p align="center">
+  <a href="https://nethma-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nethma-dissanayake"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chamod224.nethma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dissa123&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Dissa123/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Dissa123">
-</a>
-<a href="https://github.com/Dissa123?tab=followers"><img src="https://img.shields.io/github/followers/Dissa123?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="340" src="developer.gif" alt="coding" />
+
+Frontend Engineer with **5+ years** building data-driven web applications, admin dashboards and analytics interfaces for enterprise and eCommerce clients across the **UAE, MENA and Sri Lanka**. I turn business requirements into clear, high-performance interfaces and data-driven results.
+
+- 🏢 **Full Stack Engineer** @ **Infobahn Consultancy** — Dubai, UAE
+- 📊 Specialising in **dashboards, data visualisation & BI** (Power BI, Looker Studio, Recharts)
+- ⚡ Strong backend skills — **Node.js, PHP, REST/GraphQL, MySQL, MongoDB**
+- 🤖 Using **Claude Code** for code generation, refactoring & automated testing
+- 🎓 **B.Sc. (Hons) Computer Science & Software Engineering** — SLIIT
+- 🌐 Languages: English, Sinhala
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,graphql,mysql,mongodb,spring,wordpress&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions,linux,git,github,figma&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|:--|:--|:--|
+| 🚀 **Full Stack Engineer** | Infobahn Consultancy · Dubai, UAE | May 2026 – Present |
+| ✈️ **Software Engineer** | FitsAir · Colombo, Sri Lanka | Feb 2025 – Apr 2026 |
+| 🌿 **Executive, Web Alchemist** | Pintanna Plantations (Pvt) Ltd · Sri Lanka | Feb 2022 – Jan 2025 |
+| 💻 **Software Engineer** | CDAZZDev · Sri Lanka | Jul 2021 – Feb 2022 |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://gobyond.co">Gobeyond Platform</a></h3>
+      Full-stack architecture & delivery — admin dashboard, analytics views, auth and CMS for an enterprise-grade app.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏝️ <a href="https://fitsholidays.com">FitsHoliday Platform</a></h3>
+      Airline holiday booking platform with SSR, Node.js APIs, payment gateway and booking engine — tuned for performance & SEO.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://pintannaoud.lk">Pintanna Oud eCommerce</a></h3>
+      50K+ monthly visitors · custom PHP plugins for pricing, loyalty & inventory · Core Web Vitals <b>45 → 88</b>, load time <b>−35%</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌹 <a href="https://roseoud.lk">Rose Oud eCommerce</a></h3>
+      Premium store with advanced filtering, comparison & personalised recommendations — data-led checkout redesign lifted conversion <b>28%</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Key Achievements
+
+- ⚡ Improved website performance **40%** through frontend & backend optimisation
+- 📈 Raised eCommerce conversion **28%** by analysing user data and running A/B tests
+- 🔍 Grew organic traffic **35%** through a technical SEO programme
+- 🛡️ Sustained **99.5% uptime** across platforms serving **100K+** monthly visitors
+- 🤖 Adopted **Claude Code** as a core workflow, reducing build & testing time
+
+## 📜 Certifications
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Udemy](https://img.shields.io/badge/MySQL_Crash_Course-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![HackerRank](https://img.shields.io/badge/Python_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Digital_Marketing-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dissa123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissa123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dissa123&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>💬 Open to collaborations, freelance projects and full-time opportunities.</b><br/>
+  <a href="mailto:chamod224.nethma@gmail.com">chamod224.nethma@gmail.com</a> · <a href="https://nethma-portfolio.vercel.app">nethma-portfolio.vercel.app</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
